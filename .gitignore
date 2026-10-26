@@ -1,1 +1,5 @@
-sample_file.py
+.env
+__pycache__/
+.venv
+.env
+
